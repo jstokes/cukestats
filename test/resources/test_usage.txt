@@ -1,0 +1,27 @@
+[32m.[0m[32m.[0m[32m.[0m[33mP[0m[32m.[0m[32m.[0m[32m.[0m[31mF[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+[36m0.0053300[0m [33m/^tests are pending$/[0m[90m            # test/resources/test_steps.rb:21[0m
+  [36m0.0053300[0m [33mWhen tests are pending[0m[90m         # test/resources/test.feature:6[0m
+[36m0.0004970[0m [31m/^tests fail$/[0m[90m                   # test/resources/test_steps.rb:13[0m
+  [36m0.0004970[0m [31mWhen tests fail[0m[90m                # test/resources/test.feature:12[0m
+[36m0.0003017[0m [32m/^I should be able to track$/[0m[90m    # test/resources/test_steps.rb:9[0m
+  [36m0.0005830[0m [32mThen I should be able to track[0m[90m # test/resources/test.feature:5[0m
+  [36m0.0001800[0m [32mThen I should be able to track[0m[90m # test/resources/test.feature:11[0m
+  [36m0.0001420[0m [32mThen I should be able to track[0m[90m # test/resources/test.feature:17[0m
+[36m0.0003000[0m [32m/^I have a cucumber setup$/[0m[90m      # test/resources/test_steps.rb:1[0m
+  [36m0.0004660[0m [32mGiven I have a cucumber setup[0m[90m  # test/resources/test.feature:3[0m
+  [36m0.0002560[0m [32mGiven I have a cucumber setup[0m[90m  # test/resources/test.feature:9[0m
+  [36m0.0001780[0m [32mGiven I have a cucumber setup[0m[90m  # test/resources/test.feature:15[0m
+[36m0.0002210[0m [32m/^tests pass$/[0m[90m                   # test/resources/test_steps.rb:17[0m
+  [36m0.0002210[0m [32mWhen tests pass[0m[90m                # test/resources/test.feature:18[0m
+[36m0.0002070[0m [32m/^I run the cucumber steps$/[0m[90m     # test/resources/test_steps.rb:5[0m
+  [36m0.0002530[0m [32mWhen I run the cucumber steps[0m[90m  # test/resources/test.feature:4[0m
+  [36m0.0002060[0m [32mWhen I run the cucumber steps[0m[90m  # test/resources/test.feature:10[0m
+  [36m0.0001620[0m [32mWhen I run the cucumber steps[0m[90m  # test/resources/test.feature:16[0m
+
+[31mFailing Scenarios:[0m
+[31mcucumber test/resources/test.feature:8[0m[90m # Scenario: Failing scenario[0m
+
+3 scenarios ([31m1 failed[0m, [33m1 pending[0m, [32m1 passed[0m)
+12 steps ([31m1 failed[0m, [33m1 pending[0m, [32m10 passed[0m)
+0m0.092s
